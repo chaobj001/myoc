@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5203081-DE43-4BED-90D8-888CCEC75F40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dewen_ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>291D913CA065B5C7F44B1E841C194ABE548D531A</key>
+		<string>https://github.com/chaobj001/myoc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS实践/dewen_ios/dewen_ios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>291D913CA065B5C7F44B1E841C194ABE548D531A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chaobj001/myoc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>291D913CA065B5C7F44B1E841C194ABE548D531A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>291D913CA065B5C7F44B1E841C194ABE548D531A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myoc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

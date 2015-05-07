@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+#pod "AFNetworking", "~> 2.0"
+pod 'SDWebImage', '~>3.7'
+#pod 'DWTagList', '~> 0.0.7'
+#pod 'JSONModel'
+#pod 'SBJson', '~> 4.0.1'
+#pod 'GRMustache', '~> 7.3.2'
+#pod 'SWRevealViewController', '~> 2.3.0'
+#pod 'SVPullToRefresh'
